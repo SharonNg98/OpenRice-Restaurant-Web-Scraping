@@ -1,0 +1,37 @@
+Restaurant Name,Address,District,Price Range,Dish Type,Restaurant Type
+pop sushi 手卷駅,"Shop SA30A, 2/F, Phase 1, Argyle Centre, 688 Nathan Road,
+                
+                 Mong Kok",Mong Kok,Below $50,Sushi/Sashimi,Japanese
+Fight For Sushi 炙秋,"Shop F87A, 1/F, Argyle Centre Phase I, 688 Nathan Road,
+                
+                 Mong Kok",Mong Kok,Below $50,Sushi/Sashimi,Japanese
+無敵卷,"Shop G&H, G/F, 436 Shanghai Street,
+                
+                 Mong Kok",Mong Kok,Below $50,Sushi/Sashimi,Japanese
+Sushi Sashimi Shop 魚壽司の刺身專門店,"Shop 5, G/F, Sun Ming Building, 488 Shanghai Street ,
+                
+                 Mong Kok",Mong Kok,Below $50,Sushi/Sashimi,Japanese
+MAKI MAKI 波子味,"Shop SB01, 2/F, Argyle Centre, 688 Nathan Road,
+                
+                 Mong Kok",Mong Kok,Below $50,Sushi/Sashimi,Japanese
+三刀次郎 (友榮大廈),"Shop A, G/F, Yau Wing Apartments, 439 Shanghai Street,
+                
+                 Mong Kok",Mong Kok,Below $50,Sushi/Sashimi,Japanese
+Hana-Musubi 華御結,"Shop 14, Mong Kok Station,
+                
+                 Mong Kok",Mong Kok,Below $50,Sushi/Sashimi,Japanese
+Goldish Sushi Sashimi 金壽司,"Shop C1, G/F, Dun Tak Mansion, 33-35B Dundas Street,
+                
+                 Mong Kok",Mong Kok,Below $50,Sushi/Sashimi,Japanese
+Honmaru 本丸,"Shop 7, G/F, Chip Lee Building, 18-20A Mong Kok Road,
+                
+                 Mong Kok",Mong Kok,Below $50,Sushi/Sashimi,Japanese
+Hana-Musubi 華御結,"Shop MKK 11, Mong Kok East MTR Station,
+                
+                 Mong Kok",Mong Kok,Below $50,Sushi/Sashimi,Japanese
+Hana-Musubi 華御結,"Shop 37, B2/F, Langham Place, 8 Argyle Street,
+                
+                 Mong Kok",Mong Kok,Below $50,Sushi/Sashimi,Japanese
+Sushi Take-Out 爭鮮外帶壽司,"Shop MKK3, Mong Kok East MTR Station,
+                
+                 Mong Kok",Mong Kok,Below $50,Sushi/Sashimi,Japanese
